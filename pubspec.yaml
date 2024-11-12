@@ -1,0 +1,116 @@
+name: myntra
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  dots_indicator: ^2.0.0
+  csv: ^6.0.0
+  firebase_core: ^3.7.0
+  cloud_firestore: ^5.4.5
+  firebase_auth: ^5.3.2
+  image_picker: ^1.1.2
+  firebase_storage: ^12.3.5
+  shared_preferences: ^2.3.3
+  excel: ^4.0.6
+  cached_network_image: ^3.4.1
+  flutter_rating_bar: ^4.0.1
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/merged4short.csv
+    - assets/merged4.csv
+    - assets/placeholder.png
+    - assets/community_bg.jpg
+    - assets/bedsheet.webp
+    - assets/both.webp
+    - assets/fashion.png
+    - assets/fashionscale.jpg
+    - assets/foot.webp
+    - assets/gofor.jpg
+    - assets/headphone.webp
+    - assets/handbag.webp
+    - assets/heels.jpg
+    - assets/Home.jpg
+    - assets/jewel.webp
+    - assets/kiara.webp
+    - assets/kids.webp
+    - assets/lamp.jpg
+    - assets/logo.webp
+    - assets/men.webp
+    - assets/purse.webp
+    - assets/product.jpg
+    - assets/style.jpg
+    - assets/trolly.jpg
+    - assets/watch.jpg
+    - assets/whiteskin.webp
+    - assets/women.jpg
+    - assets/myntra.jpg
+    - assets/fwd.jpg
+    - assets/luxe.jpg
+    - assets/bags.jpg
+    - assets/girls.jpg
+    - assets/allen.jpg
+    - assets/bata.jpg
+    - assets/kurtasw.webp
+    - assets/kurtiw.jpg
+    - assets/vero.jpg
+    - assets/ninety.jpg
+    - assets/twenty.jpg
+    - assets/thirty.jpg
+    - assets/fourty.jpg
+    - assets/footcat.jpg
+    - assets/kurtacat.jpg
+    - assets/kurticat.jpg
+    - assets/lipcat.webp
+    - assets/moistcat.jpg
+    - assets/shirtcat.jpg
+    - assets/shirtcatm.jpg
+    - assets/shirtcatm.jpg
+    - assets/tshirtcatw.jpg
+    - assets/watchcat.jpg
+    - assets/bedcat.jpg
+    - assets/cascat.jpg
+    - assets/flipcat.jpg
+    - assets/jeanscat.jpg
+    - assets/kiddrcat.webp
+    - assets/shampcat.jpg
+    - assets/shortcat.jpg
+    - assets/sportcat.webp
+    - assets/trollycat.jpg
+    - assets/login.jpg
+    - assets/bottom1.jpeg
+    - assets/bottom2.jpeg
+    - assets/bottom3.jpeg
+    - assets/bottom4.jpeg
+    - assets/bottom5.jpeg
+    - assets/bottom6.jpeg
+    - assets/bottom7.jpeg
+    - assets/bottom8.jpg
+    - assets/bottom9.jpeg
+    - assets/bottom10.jpeg
+    - assets/bottom11.jpeg
+    - assets/bottom12.jpeg
+    - assets/bottom13.jpeg
+    - assets/bottom15.jpeg
+    - assets/bottom16.jpeg
+    - assets/bottom17.jpeg
+    - assets/bottom18.jpeg
+    - assets/bottom19.jpeg
+    - assets/bottom20.jpeg
+    - assets/bottom15.jpg

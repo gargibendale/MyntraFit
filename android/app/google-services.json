@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850554461811",
+    "project_id": "chatapp-b10cb",
+    "storage_bucket": "chatapp-b10cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850554461811:android:89a8f3e72c2a55383c9406",
+        "android_client_info": {
+          "package_name": "com.example.myntra_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI9eizbUFdMuOEBkxYskDTSKRddFX3rrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
