@@ -8,6 +8,11 @@ I integrated the app with firebase to fetch data in real-time and to authenticat
 
 [birnaleriya](https://github.com/birnaleriya) and [varshagujrathi](https://github.com/VarshaGujrathi) designed the home page for the app.
 
+## Technologies
+- Flutter, Firebase
+- Scikit-learn, pandas, HuggingFace Datasets
+- Flask (backend), REST Apis, ngrok
+
 
 #  Demo screenshots:
 
